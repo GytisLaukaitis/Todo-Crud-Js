@@ -4,7 +4,7 @@
 
 
 # Task management (a.k.a. TODO)
-### 15 grupe - TODO project
+### TODO project
 
 Key features:
 - content rendering using JS;
