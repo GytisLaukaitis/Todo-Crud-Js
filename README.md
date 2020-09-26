@@ -14,4 +14,4 @@ Key features:
 
 
 ### Authors
-[Gyts](https://github.com/GytisLaukaitis)
+[Gytis](https://github.com/GytisLaukaitis)
